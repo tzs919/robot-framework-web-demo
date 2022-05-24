@@ -1,0 +1,37 @@
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+.DS_Store/
+/target
+
+/target
+/target/
+**/target/
+/report
+
+.DS_Store
+
+tmp
+build
+dist
+.idea
+.*project
+*.pyc
+*$py.class
+.DS_Store
+.spyderworkspace
+log.html
+report.html
+output.xml
+*.log
